@@ -13,8 +13,7 @@
 - Uses **ResNet50** for classification and **YOLOv8** for detection
 - Dataset: PlantDoc  
 
-🔗 Repository:  
-👉 https://github.com/viresh-tarapur/plant-disease-detection
+
 
 ---
 
@@ -23,8 +22,6 @@
 - Provides basic fitness advice
 - Uses AI APIs and CNN models  
 
-🔗 Repository:  
-👉 https://github.com/viresh-tarapur/food-image-classifier
 
 ---
 
@@ -33,17 +30,12 @@
 - AI ethics and healthcare analysis
 - Case-study–based implementations  
 
-🔗 Repository:  
-👉 https://github.com/viresh-tarapur/ai-healthcare-projects
 
 ---
 
 ### 🧠 Python & DSA Practice
 - Solved multiple coding problems (LeetCode style)
 - Focus on logic building and problem-solving  
-
-🔗 Repository:  
-👉 https://github.com/viresh-tarapur/python-dsa
 
 ---
 
